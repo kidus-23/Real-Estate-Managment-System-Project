@@ -1,0 +1,15 @@
+D:\Documents\C#\Real state project\bin\Debug\Real state project.exe.config
+D:\Documents\C#\Real state project\bin\Debug\Real state project.exe
+D:\Documents\C#\Real state project\bin\Debug\Real state project.pdb
+D:\Documents\C#\Real state project\obj\Debug\Real state project.csproj.AssemblyReference.cache
+D:\Documents\C#\Real state project\obj\Debug\Real state project.csproj.SuggestedBindingRedirects.cache
+D:\Documents\C#\Real state project\obj\Debug\Real_state_project.Properties.Resources.resources
+D:\Documents\C#\Real state project\obj\Debug\Real state project.csproj.GenerateResource.cache
+D:\Documents\C#\Real state project\obj\Debug\Real state project.csproj.CoreCompileInputs.cache
+D:\Documents\C#\Real state project\obj\Debug\Real state project.exe
+D:\Documents\C#\Real state project\obj\Debug\Real state project.pdb
+D:\Documents\C#\Real state project\obj\Debug\Real_state_project.Country_search.resources
+D:\Documents\C#\Real state project\obj\Debug\Real_state_project.Tenants.resources
+D:\Documents\C#\Real state project\obj\Debug\Real_state_project.Admin_login.resources
+D:\Documents\C#\Real state project\obj\Debug\Real_state_project.User_login.resources
+D:\Documents\C#\Real state project\obj\Debug\Real_state_project.Home_page.resources
